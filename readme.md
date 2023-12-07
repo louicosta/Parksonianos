@@ -37,7 +37,7 @@
 
 <br>
 
-O objetivo desta análise de dados é falar um pouco sobre como a doença de Parkinson afeta seus portadores e a partir disso como os familiares podem lidar e tentar entender o que acontece.
+O objetivo desta análise de dados é falar um pouco sobre onde vemos a maior concentração de pessoas com a doença de Parkinson e a partir disso informar que isso não interfere em classe ou país.
 <br>
 #### O que é o Parkinson
 
@@ -50,7 +50,7 @@ Atualmente não existe um método objetivo para diagnosticar a doença de Parkin
 <br>
 <br>
 
-**[Apresentação do Projeto Final](https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-construtores-0.gif)**
+**[Apresentação do Projeto Final](https://www.canva.com/design/DAF1rONHlaY/sDo1XfHbFutUhwUkSPfSRg/edit?utm_content=DAF1rONHlaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 <br>
 <br>
@@ -65,7 +65,7 @@ Atualmente não existe um método objetivo para diagnosticar a doença de Parkin
    |
    |  ||--📁 final
    |  |    |- 📄 analise_parkinson.ipynb
-   |  |    |- 📄 base_unificada_parkinson.csv
+   |  |    |- 📄 base_analise_parkinson.csv
    |
    |--📁 dataset
    |  ||
@@ -146,7 +146,7 @@ $ Run ou Run All
 
 <br>
 
-📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-construtores-0.gif).
+📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com/views/ProjetoFinalReprograma/TxmortalidadeBR?:language=pt-BR&:display_count=n&:origin=viz_share_link).
 
 <br>
 <br>
